@@ -31,7 +31,7 @@ You can find the implementations in:
 
 The following plot shows the performance comparison of the algorithms:
 
-![MAB Comparison](mab_comparision.png)
+![MAB Comparison](mab_comparison.png)
 
 ## Notes
 
