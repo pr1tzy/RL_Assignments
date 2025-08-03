@@ -27,6 +27,12 @@ You can find the implementations in:
    ```
    This will execute all three algorithms and display their performance. Results and plots will help you compare the approaches.
 
+## Results
+
+The following plot shows the performance comparison of the algorithms:
+
+![MAB Comparison](mab_comparision.png)
+
 ## Notes
 
 - **Environment:**  
@@ -45,7 +51,3 @@ You can find the implementations in:
 ## Version Notes
 
 - Some environments or instructions may reference different file or folder names. This project uses the latest structure, with all algorithms in `src/algorithms/`.
-
----
-
-Happy experimenting with Bandit algorithms!
